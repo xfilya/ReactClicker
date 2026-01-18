@@ -1,0 +1,6 @@
+.buttonPanel{
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+}
